@@ -55,6 +55,7 @@
     <li align="justify"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><strong>JavaScript</strong></a>: Language used to develop the match calculator.</li>
     <li align="justify"><a href="https://nodejs.org/pt"><strong>Node.js</strong></a>: To run the script locally in the terminal.</li>
     <li align="justify"><a href="https://github.com/"><strong>GitHub</strong></a>: To store and version the project.</li>
+    <li align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><strong>HTML</strong></a>: Used to structure this README file</li>
   </ul>
 
   <h2><strong>Project Structure</strong></h2>
@@ -72,7 +73,6 @@
     <li align="justify">I used comparison operators to define the level range.</li>
     <li align="justify">I structured the code to display the formatted message in the console.</li>
     <li align="justify">I implemented a decision logic using <strong>if-else</strong> to classify the level correctly.</li>
-    <li align="justify"><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><strong>HTML</strong></a>: Used to structure this README file</li>
   </ul>
 
   <h2><strong>Contact</strong></h2>
